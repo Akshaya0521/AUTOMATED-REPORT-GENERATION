@@ -35,3 +35,4 @@ Main Function: The main() function orchestrates the process by reading the data,
 The script is designed to automate the analysis and reporting of datasets with minimal manual intervention.
 
 Output of the task
+![Image](https://github.com/user-attachments/assets/c1a6f4e9-5d20-4edc-8749-dbb9b9eec988)
