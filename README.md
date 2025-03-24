@@ -3,7 +3,7 @@ TASK 1 - API INTEGRATION AND DATA VISUALIZATION
 
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: P Sathvika
+NAME: N AKSHAYA
 
 INTERN ID: CT08PPY
 
@@ -13,7 +13,7 @@ BATCH DURATION: January 30th, 2025 to March 1st, 2025
 
 MENTOR NAME: NEELA SANTHOSH
 
-Description
+**Description**
 This Python script reads data from a CSV file, performs basic statistical analysis, and generates a PDF report with the analysis results.
 
 Read Data: It loads the CSV file into a pandas DataFrame using read_data().
@@ -34,5 +34,5 @@ Main Function: The main() function orchestrates the process by reading the data,
 
 The script is designed to automate the analysis and reporting of datasets with minimal manual intervention.
 
-Output of the task
+**Output of the task**
 ![Image](https://github.com/user-attachments/assets/c1a6f4e9-5d20-4edc-8749-dbb9b9eec988)
